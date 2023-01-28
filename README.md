@@ -28,7 +28,7 @@ Anomaly detection is an important aspect of analysing sensitive and critical dat
 
 # Choosing the right model
 
-My solution proposes the use of self organising maps, an unsupervised deep learning model which is based on competitive learning.  The model creates a client segmentation so one segment contains the potential frauds. The winning neuron i.e. the neuron closest to the specific client will be picked and it's neighbourhood neurons. With every updation, the neighbourhood radius decreases and we get closer to the fraud.
+My solution proposes the use of self organising maps, an unsupervised deep learning network which is based on competitive learning.  The model creates a client segmentation so one segment contains the potential frauds. The winning neuron i.e. the neuron closest to the specific client will be picked and it's neighbourhood neurons. With every updation, the neighbourhood radius decreases and we get closer to the fraud.
 
 # References
 
