@@ -33,6 +33,6 @@ My solution proposes the use of self organising maps, an unsupervised deep learn
 # References
 
 
-- https://aws.amazon.com/solutions/implementations/fraud-detection- using-machine-learning/
+- https://aws.amazon.com/solutions/implementations/fraud-detection-using-machine-learning/
 - https://www.kaggle.com/
 - https://towardsdatascience.com
