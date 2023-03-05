@@ -30,7 +30,7 @@ Anomaly detection is an important aspect of analysing sensitive and critical dat
 
 My solution proposes the use of self organising maps, an unsupervised deep learning network which is based on competitive learning.  The model creates a client segmentation so one segment contains the potential frauds. The winning neuron i.e. the neuron closest to the specific client will be picked and it's neighbourhood neurons. With every updation, the neighbourhood radius decreases and we get closer to the fraud.
 
-# Final Round
+# Final Round Results
 
 ![1](https://user-images.githubusercontent.com/77115883/222978100-fa7dc107-08b0-4a81-b43c-f0b362046a41.png)
 
