@@ -1,8 +1,10 @@
 # Fraud Detection in Real-Time using AWS
 
-## Team: CodeMantra
-## Hackathon: Wells Fargo Hackathon, Shaastra 2023 IIT Madras
-## Position: Top 5 
+```
+Team: CodeMantra
+Hackathon: Wells Fargo Hackathon, Shaastra 2023 IIT Madras
+Position: Top 5 
+```
 
 # Table of Contents
 
